@@ -1,5 +1,5 @@
 {
-  "name": "sem-processo-server-node",
+  "name": "node-async-server-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

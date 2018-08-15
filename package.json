@@ -1,0 +1,23 @@
+{
+  "name": "sem-processo-server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "cron": "^1.3.0",
+    "express": "^4.15.3",
+    "lodash": "^4.17.5",
+    "nodemon": "^1.11.0",
+    "promise-mysql": "^3.1.3"
+  }
+}
